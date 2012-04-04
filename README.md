@@ -9,4 +9,6 @@ https://twitter.com/#!/torrez/statuses/184683262298427392
 
 usage: conference.py [-h] N [N ...]
 
-Where N is a full phone number like: +14155551212.
+Where N is a full phone number:
+
+./conference.py +14155551212 +12125551212 +12135551212 ...
