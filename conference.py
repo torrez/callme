@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import argparse
 from twilio.rest import TwilioRestClient
-from twilio.rest.resources import Conferences
 import settings 
 
 
