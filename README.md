@@ -1,4 +1,4 @@
-# Script Based Conference Call
+# Script Based Conference Call That Calls Its Participants
 
 This tiny script is based on an idea I had here:
 https://twitter.com/#!/torrez/statuses/184683262298427392
